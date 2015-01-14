@@ -1,0 +1,4 @@
+*.godeps
+*.sublime-*
+bin/*
+pkg/*
